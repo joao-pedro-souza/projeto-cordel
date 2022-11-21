@@ -27,3 +27,9 @@ main {
     font-family: cursive;
     font-size: 1.5em;
 }
+
+#joaninha {
+    background-image: url(imagens/background001.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
