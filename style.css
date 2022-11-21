@@ -20,3 +20,10 @@ a {
     text-decoration: none;
     color: white;
 }
+
+main {
+    padding: 10px;
+    padding-top: 30px;
+    font-family: cursive;
+    font-size: 1.5em;
+}
