@@ -27,7 +27,7 @@ header {
 
 h1 {
     font-family: var(--fonte-titulo);
-    font-size: 5em;
+    font-size: 10vw;
     font-weight: bolder;
     font-variant: small-caps;
 }
@@ -52,7 +52,7 @@ section {
     padding: 20px;
     padding-bottom: 80px;
     font-family: var(--fonte-cordel);
-    font-size: 4.5vh;
+    font-size: 3.5vw;
     line-height: 2em;
 }
 
