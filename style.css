@@ -56,6 +56,10 @@ section {
     line-height: 2em;
 }
 
+section > p {
+    padding-bottom: 2em;
+}
+
 #joaninha {
     margin: 20px;
     padding: 20px;
