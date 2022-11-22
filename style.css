@@ -23,13 +23,13 @@ header {
     color: white;
     text-align: center;
     padding: 80px;
-    font-family: var(--fonte-titulo);
 }
 
 h1 {
-    font-family: sans-serif;
+    font-family: var(--fonte-titulo);
     font-size: 5em;
     font-weight: bolder;
+    font-variant: small-caps;
 }
 
 a {
@@ -47,6 +47,7 @@ section {
     margin: 60px 10px;
     padding: 25px;
     font-family: var(--fonte-cordel);
+    line-height: 2em;
 }
 
 #joaninha {
