@@ -62,8 +62,7 @@ section > p {
 
 #joaninha {
     margin: 20px;
-    padding: 20px;
-    padding-bottom: 80px;
+    padding: 80px 20px;
     background-image: url(imagens/background001.jpg);
     background-position: center center;
     background-size: cover;
@@ -72,8 +71,7 @@ section > p {
 
 #livro {
     margin: 20px;
-    padding: 20px;
-    padding-bottom: 80px;
+    padding: 80px 20px;
     background-image: url(imagens/background002.jpg);
     background-position: center center;
     background-size: cover;
