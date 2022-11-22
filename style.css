@@ -37,6 +37,10 @@ a {
     color: white;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 main {
     padding: 10px;
     padding-top: 30px;
@@ -48,6 +52,7 @@ section {
     padding: 20px;
     padding-bottom: 80px;
     font-family: var(--fonte-cordel);
+    font-size: 4.5vh;
     line-height: 2em;
 }
 
