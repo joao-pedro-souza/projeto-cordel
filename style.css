@@ -33,3 +33,10 @@ main {
     background-size: cover;
     background-attachment: fixed;
 }
+
+footer {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
