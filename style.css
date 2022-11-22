@@ -67,6 +67,8 @@ section > p {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    text-shadow: 1px 1px 0px black;
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.414);
 }
 
 #livro {
@@ -76,6 +78,8 @@ section > p {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    text-shadow: 1px 1px 0px black;
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.414);
 }
 
 .destaque {
