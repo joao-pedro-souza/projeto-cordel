@@ -1,6 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root {
+    --fonte-normal: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte-titulo: 'Passion One', cursive;
+    --fonte-cordel: 'Sriracha', cursive;
+}
+
 * {
     margin: 0;
     padding: 0;
+}
+
+
+body {
+    font-family: var(--fonte-normal);
 }
 
 header {
@@ -8,6 +23,7 @@ header {
     color: white;
     text-align: center;
     padding: 80px;
+    font-family: var(--fonte-titulo);
 }
 
 h1 {
@@ -24,13 +40,13 @@ a {
 main {
     padding: 10px;
     padding-top: 30px;
-    font-family: cursive;
     font-size: 1.5em;
 }
 
 section {
     margin: 60px 10px;
     padding: 25px;
+    font-family: var(--fonte-cordel);
 }
 
 #joaninha {
